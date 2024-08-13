@@ -10,10 +10,18 @@ To segment customers I am using an unsupervised machine learning technique calle
 
 Data Preparation 
 
-I am extracting spending score and annual income features from the data for the purpose of clustering as it will help identify distinct customer groups based on their spending potential. 
+I am extracting spending score and annual income features for the purpose of clustering as it will help identify distinct customer groups based on their spending potential. 
 Identifying such groups will provide actionable insights into customer behavior, allowing the mall to tailor marketing strategies, promotions, and offerings to specific customer segments.
 
 K-Means Clustering 
+
+After running the K-means algorithm, the elbow chart reveals a distinct decline in the Within-Cluster Sum of Squares at 5 clusters, 
+suggesting this as the optimal number of clusters.
+
+Visualization of Clusters - Scatterplot
+
+
+
 
 
 
