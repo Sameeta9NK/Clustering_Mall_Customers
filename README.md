@@ -20,7 +20,8 @@ suggesting this as the optimal number of clusters.
 
 <img width="335" alt="K5" src="https://github.com/user-attachments/assets/414f3c7f-c68c-43c2-b5ff-314bf75db7d0">
 
-Visualization of Clusters - Scatterplot
+Visualization of Clusters
+
 Distinct clusters can be observed by plotting a scatterplot. 
 
 The 5 clusters observed in the scatterplot are as follows -
