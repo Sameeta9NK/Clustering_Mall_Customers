@@ -18,6 +18,9 @@ K-Means Clustering
 After running the K-means algorithm, the elbow chart reveals a distinct decline in the Within-Cluster Sum of Squares at 5 clusters, 
 suggesting this as the optimal number of clusters.
 
+<img width="335" alt="K5" src="https://github.com/user-attachments/assets/414f3c7f-c68c-43c2-b5ff-314bf75db7d0">
+
+
 Visualization of Clusters - Scatterplot
 
 
