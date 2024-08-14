@@ -23,6 +23,7 @@ suggesting this as the optimal number of clusters.
 # Visualization of Clusters
 
 Distinct clusters can be observed in the below scatterplot. 
+
 <img width="367" alt="K5Clusters" src="https://github.com/user-attachments/assets/3b917fb3-7f07-42b8-8faa-defe2e60d6cb">
 
 # Conclusion
