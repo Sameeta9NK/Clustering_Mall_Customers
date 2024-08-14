@@ -11,7 +11,7 @@ To segment customers I am using an unsupervised machine learning technique calle
 # Data Preparation 
 
 I am extracting spending score and annual income features for the purpose of clustering as it will help identify distinct customer groups based on their spending potential. 
-Identifying such groups will provide actionable insights into customer behavior, allowing the mall to tailor marketing strategies, promotions, and offerings to specific customer segments.
+Identifying such groups will provide actionable insights into customer buying behavior, allowing tailored marketing strategies, promotions, and offerings to specific customer segments.
 
 # K-Means Clustering 
 
