@@ -1,6 +1,6 @@
 Introduction
 
-The goal of this project is to segment mall customers into distinct groups by examining their spending scores and income. 
+In this project I am segmenting mall customers into distinct groups by examining their spending scores and income. 
 This segmentation enables the implementation of targeted marketing strategies, ensuring that each group receives personalized and relevant marketing efforts.
 
 To segment customers I am using an unsupervised machine learning technique called K-means clustering for the following reasons -
