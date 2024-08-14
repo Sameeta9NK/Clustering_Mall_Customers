@@ -21,6 +21,15 @@ suggesting this as the optimal number of clusters.
 <img width="335" alt="K5" src="https://github.com/user-attachments/assets/414f3c7f-c68c-43c2-b5ff-314bf75db7d0">
 
 Visualization of Clusters - Scatterplot
+Distinct clusters can be observed by plotting a scatterplot. 
+
+The 5 clusters observed in the scatterplot are as follows -
+
+- High Income - High Spending
+- High Income - Low Spending
+- Low Income - High Spending
+- Low Income - Low Spending
+- Middle Income - Average Spending
 
 <img width="367" alt="K5Clusters" src="https://github.com/user-attachments/assets/3b917fb3-7f07-42b8-8faa-defe2e60d6cb">
 
