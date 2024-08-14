@@ -20,8 +20,9 @@ suggesting this as the optimal number of clusters.
 
 <img width="335" alt="K5" src="https://github.com/user-attachments/assets/414f3c7f-c68c-43c2-b5ff-314bf75db7d0">
 
-
 Visualization of Clusters - Scatterplot
+
+<img width="367" alt="K5Clusters" src="https://github.com/user-attachments/assets/3b917fb3-7f07-42b8-8faa-defe2e60d6cb">
 
 
 
