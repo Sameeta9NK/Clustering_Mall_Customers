@@ -24,7 +24,7 @@ Visualization of Clusters
 
 <img width="367" alt="K5Clusters" src="https://github.com/user-attachments/assets/3b917fb3-7f07-42b8-8faa-defe2e60d6cb">
 
-Distinct clusters can be observed by plotting a scatterplot. 
+Distinct clusters can be observed in the scatterplot. 
 The 5 clusters observed are as follows -
 
 - High Income - High Spending
