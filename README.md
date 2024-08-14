@@ -22,10 +22,12 @@ suggesting this as the optimal number of clusters.
 
 # Visualization of Clusters
 
+Distinct clusters can be observed in the below scatterplot. 
 <img width="367" alt="K5Clusters" src="https://github.com/user-attachments/assets/3b917fb3-7f07-42b8-8faa-defe2e60d6cb">
 
-Distinct clusters can be observed in the scatterplot. 
-The 5 clusters observed are as follows -
+# Conclusion
+
+The 5 clusters observed are as follows:
 
 - High Income - High Spending
 - High Income - Low Spending
@@ -33,6 +35,7 @@ The 5 clusters observed are as follows -
 - Low Income - Low Spending
 - Middle Income - Average Spending
 
+This segmentation allows for a more strategic and tailored approach to our marketing efforts. By understanding the unique characteristics and preferences of each group, we can design targeted campaigns that resonate more effectively with each segment. This level of customization not only enhances the customer experience but also leads to higher sales and more efficient use of marketing resources, ultimately reducing campaign costs.
 
 
 
